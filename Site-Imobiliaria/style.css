@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    font-family: tahoma;
+}
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;   
+    text-align: center;
+    
+}
+
+.img-logo{
+    height: 150px;
+   
+}
+.logo{
+    text-align: center;
+    background-color: #afddfb;
+}
+.banner{
+    text-align: center;
+}
+.paragrafo-links{
+    margin-top: 15px;
+    margin-bottom: 15px;
+   
+}
+.link{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+/* ==== */
+
+
+#sobre{
+    text-align: center;
+}
+.img-banner{
+    margin-top: 50px;
+    padding-top: 0%;
+    
+}
+span{
+    font-weight: bold;
+}
+.texto-azul{
+    color: #1d80c1;
+}
+.texto-amarelo{
+    color: #fff81b;
+}
+.sub-branco{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+.subtitulo{
+    color: #1c81c0;
+    font-weight: none;
+    margin-top: 0%;
+}
+.imovel{
+    height: 450px;
+}
+
+
+/* ==== */
+
+
+#servicos{
+    background-color: #1c81c0;
+    text-align: center;
+    
+}
+.p-servicos{
+    font-size: 22px;
+    line-height: 42px;
+    color: #ffffff;
+    text-align: center;
+    width: 700px;
+    
+    
+}
+.lista-servicos{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+    
+}
+.item{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+
+/* ==== */
+
+
+#corretores{
+ text-align: center;   
+}
+.sub-azul{
+    color: #1c81c0;
+    font-size: 28px;
+    line-height: 42px;
+}
+.img-corretor{
+    height: 450px;
+}
+.p-corretores {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+
+
+/* ==== */
+
+
+#contato{
+ text-align: center; 
+ background-color: #1c81c0; 
+}
+.p-contato{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.item-contato{
+    background-color: #ffffff;
+    color: #1c81c0;
+    padding: 5px 5px 2px 2px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+    list-style: none;
+}
